@@ -6,7 +6,7 @@ import googleapiclient.discovery
 
 # --- KONFIGURASI ---
 DB_PATH = "database_5menit/database.sqlite"  # Sesuaikan dengan folder database Anda di GitHub
-BASE_URL = "https://thenewsday112.github.io/banyakrss7"
+BASE_URL = "https://thenewsday112.github.io/rss11"
 
 def run_google_indexer():
     print("=" * 60)
